@@ -1,6 +1,6 @@
 # Task Management Application
 
-This is a simple task management application built with Laravel for educational purposes.
+This is a simple task management application built with Laravel.
 
 ## Prerequisites
 
